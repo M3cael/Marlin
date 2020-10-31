@@ -27,6 +27,8 @@
 
 #define NEOPIXEL_PIN                       PC7    // LED driving pin
 
+#define FIL_RUNOUTR_PIN                    PC12   // PT-DET
+
 /**
  * TMC2208/TMC2209 stepper drivers
  */
