@@ -27,6 +27,9 @@
 
 #define NEOPIXEL_PIN                       PC7    // LED driving pin
 
+//
+// Filament Runout Sensor
+//
 #define FIL_RUNOUTR_PIN                    PC12   // PT-DET
 
 /**
